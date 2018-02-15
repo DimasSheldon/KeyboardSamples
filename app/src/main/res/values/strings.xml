@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Keyboard Samples</string>
+    <string name="show">Show</string>
+    <string name="enter">Enter your username</string>
+    <string name="password">Enter your password</string>
+    <string name="email">Enter your email</string>
+    <string name="phone">08xxxxxxxxxx</string>
+
+</resources>
